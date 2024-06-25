@@ -1,0 +1,180 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": "1",
+      "date": "2024-01-12",
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "2",
+      "date": "2024-01-12",
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "3",
+      "date": "2024-01-12",
+      "title": "fugiat veniam minus",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": "4",
+      "date": "2024-01-12",
+      "title": "et porro tempora",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "5",
+      "date": "2024-01-12",
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "7",
+      "date": "2024-01-12",
+      "title": "illo expedita consequatur quia in",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "8",
+      "date": "2024-01-12",
+      "title": "quo adipisci enim quam ut ab",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "9",
+      "date": "2024-01-12",
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "10",
+      "date": "2024-01-12",
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": "13",
+      "date": "2024-01-12",
+      "title": "et doloremque nulla",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "14",
+      "date": "2024-01-12",
+      "title": "repellendus sunt dolores architecto voluptatum",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "15",
+      "date": "2024-01-12",
+      "title": "ab voluptatum amet voluptas",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "16",
+      "date": "2024-01-12",
+      "title": "accusamus eos facilis sint et aut voluptatem",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "17",
+      "date": "2024-01-12",
+      "title": "quo laboriosam deleniti aut qui",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": "18",
+      "date": "2024-01-12",
+      "title": "dolorum est consequatur ea mollitia in culpa",
+      "completed": true
+    },
+    {
+      "id": "6397897839661328000",
+      "userId": 60503332012063.195,
+      "title": "!23",
+      "date": "2024-05-29",
+      "completed": false
+    },
+    {
+      "id": "302494428213131460",
+      "userId": null,
+      "title": "IIII",
+      "date": "2024-05-29",
+      "completed": false
+    },
+    {
+      "id": "9204359086460836000",
+      "title": "g'obu",
+      "date": "2024-05-28",
+      "completed": false
+    },
+    {
+      "id": "6856346264012672000",
+      "userId": 6.068222251620781,
+      "title": "c iju,h",
+      "date": "2024-05-29",
+      "completed": false
+    },
+    {
+      "id": "3700604078315101700",
+      "userId": 657865236.1735522,
+      "title": "фпцуы",
+      "date": "2024-05-30",
+      "completed": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "3",
+      "username": "oleg",
+      "password": "123"
+    },
+    {
+      "id": "6.068222251620781",
+      "username": "iol",
+      "password": "123"
+    },
+    {
+      "id": "323432603.2212549",
+      "username": "q3",
+      "password": "123"
+    },
+    {
+      "id": "657865236.1735522",
+      "username": "Oleg12345",
+      "password": "123"
+    },
+    {
+      "id": 359249985.15263873,
+      "username": "oleg123456",
+      "password": "123456"
+    }
+  ]
+}

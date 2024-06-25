@@ -1,0 +1,6 @@
+export const LOGIN_ROUTE = '/login'
+export const REGISTER_ROUTE = '/register'
+export const TODOES_ROUTE = '/todo'
+export const OVERDUE_TODOES_ROUTE = '/todo/overdue'
+export const TODAY_TODOES_ROUTE = '/todo/today'
+export const COMPLETED_TODOES_ROUTE = '/todo/completed'
